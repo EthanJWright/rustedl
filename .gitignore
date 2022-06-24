@@ -1,3 +1,4 @@
 /target/*
 /downloads
 /frontend/dist/*
+/frontend/target/*
